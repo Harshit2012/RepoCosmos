@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#forksStarsChart {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+#downloadButton {
+    margin-top: 20px;
+}
