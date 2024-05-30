@@ -24,6 +24,24 @@ Easily visualize your repo's stars and forks.
   <code align="center"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a> </code>
 </div>
 
+## Themes
+Example repo:- Harshit2012/CODHB
+1. Colorful theme:-
+   
+   <img height="200" width="400" src="themes/forks-stars-chart (3).png">
+
+2. Default theme:-
+   
+   <img height="200" width="400" src="themes/forks-stars-chart (2).png">
+   
+3. Dark theme:-
+   
+   <img height="200" width="400" src="themes/forks-stars-chart (1).png">
+
+4. Light theme:-
+   
+   <img height="200" width="400" src="themes/forks-stars-chart.png">
+
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
