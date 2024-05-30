@@ -10,8 +10,8 @@ body {
 }
 
 #forksStarsChart {
-    width: 80%;
-    height: 500px;
+    width: 60% !important;
+    height: 400px !important;
     margin: 0 auto;
 }
 
